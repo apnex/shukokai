@@ -34,7 +34,7 @@
 - A. Step back right shuto uke, left gyakuzuki, right thrust, step forward repeat
 - B. Step back right shuto uke, right uraken, step forward repeat
 - C. Slide back right jodan shotei uke, left maekenzuki
-- D. Slide back right jodan shotei uke, left shudan shotei uke, right gyakuzuki
+- D. Slide back right jodan shotei uke, left chudan shotei uke, right gyakuzuki
 
 #### 7
 - A. Slide in left shuto gedan berai, right gyakuzuki
