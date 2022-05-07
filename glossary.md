@@ -14,7 +14,7 @@
 | shuto-uke | open-hand inside middle block |
 | shuto-soto-uke | knife-hand outside middle block |
 | haito-uke | knife-hand reverse middle block |
-
+| nagashi-uke | open-hand deflect block |
 #### Strikes [uchi]
 | shuto-uchi | outside knife-hand strike |
 
