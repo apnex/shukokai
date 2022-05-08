@@ -15,6 +15,7 @@
 | shuto-soto-uke | knife-hand outside middle block |
 | haito-uke | knife-hand reverse middle block |
 | nagashi-uke | open-hand deflect block |
+
 #### Strikes [uchi]
 | shuto-uchi | outside knife-hand strike |
 
@@ -23,9 +24,3 @@
 #### Kicks [keri]
 
 #### Stances [dachi]
-shu.kok.ai
-k.au
-shuko.k.ai
-shukok.ai
-shuk.ok.ai
-

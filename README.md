@@ -1,7 +1,7 @@
 ## Shukokai
 
 ---
-###  Combinations
+##  Combinations
 The following combinations are performed from left leg forward.  
 
 #### 1
@@ -99,8 +99,58 @@ The following movements are performed from kamae - left leg forward.
 8. Step back with the front to fudo-dachi (face on) outside hand open gedan - inside hand nagashi-uke and then step back.
 
 ---
-###  Kata
+##  Kata
 Some notes on kata.
+
+###  Basic Kata
+Basic katas.
+
+### `Shihozuki Ichi`
+"Four Directions of Punches 1"  
+
+Sequence:
+```
+- Gedan Barai / Zenkutsu Dachi
+- Oizuki
+```
+
+### `Shihozuki Ni`
+"Four Directions of Punches 2"  
+
+Sequence:
+```
+- Age-uke / Zenkutsu Dachi
+- Oizuki
+```
+
+### `Shihozuki San`
+"Four Directions of Punches 3"  
+
+Sequence:
+```
+- Shuto Gedan Barai / Shiko Dachi
+- Oizuki
+```
+
+### `Shihozuki Yon`
+"Four Directions of Punches 4"  
+
+Sequence:
+```
+- Shuto Uke / Neko Ashi Dachi
+- Oizuki
+```
+
+### `Shihozuki Go`
+"Four Directions of Punches 5"  
+
+Sequence:
+```
+- Gedan Barai / Zenkutsu Dachi
+- Shuto Uke / Neko Ashi Dachi
+- Shuto Gedan Barai / Shiko Dachi
+- Oizuki
+```
 
 ### `Pinan Shodan`
 "Peaceful Mind, Tranquility 1"
@@ -116,6 +166,10 @@ Some notes on kata.
 
 ### `Pinan Godan`
 "Peaceful Mind, Tranquility 5"
+
+---
+### Advanced Kata
+Advanced katas.
 
 ### `Ananku`
 "Peace from the South"
