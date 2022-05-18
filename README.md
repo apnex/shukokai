@@ -137,8 +137,8 @@ Sequence:
 
 Sequence:
 ```
-- Shuto Uke / Neko Ashi Dachi
-- Oizuki
+- Gedan Berai / Zenkutsu Dachi
+- Gyakuzuki
 ```
 
 ### `Shihozuki Go`
@@ -171,7 +171,7 @@ Sequence:
 ### Advanced Kata
 Advanced katas.
 
-### `Ananku`
+### `Ananko`
 "Peace from the South"
 
 ### `Matsukaze`
@@ -188,3 +188,14 @@ Advanced katas.
 
 ### `Kosokun Dai`
 "To View the Sky - Major"
+
+### `Kosokun Shiho`
+"To View the Sky - 4 Directions"
+
+### `Rohai`
+
+### `Seinchin`
+
+### `Seipai`
+
+### `Seisan`
