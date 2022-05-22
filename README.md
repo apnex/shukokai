@@ -119,7 +119,7 @@ Sequence:
 
 Sequence:
 ```
-- Age-uke / Zenkutsu Dachi
+- Shuto Uke / Nekoashi Dachi
 - Oizuki
 ```
 
@@ -147,7 +147,7 @@ Sequence:
 Sequence:
 ```
 - Gedan Barai / Zenkutsu Dachi
-- Shuto Uke / Neko Ashi Dachi
+- Shuto Uke / Nekoashi Dachi
 - Shuto Gedan Barai / Shiko Dachi
 - Oizuki
 ```
@@ -192,10 +192,11 @@ Advanced katas.
 ### `Kosokun Shiho`
 "To View the Sky - 4 Directions"
 
-### `Rohai`
-
-### `Seinchin`
+### `Seienchin`
+"To Suppress the Retreat"
 
 ### `Seipai`
+
+### `Rohai`
 
 ### `Seisan`
