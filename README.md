@@ -53,10 +53,10 @@ The following combinations are performed from left leg forward.
 - D. One leg open hand fake jodan, right uraken plus left gyakuzuki
 
 #### 9
-- A. Slide in, right ashi berai
+- A. Right ashi berai
 - B. Skip in, left ashi berai
-- C. Slide in right ashi berai, right oizuki
-- D. Slide in right ashi berai, right uraken
+- C. Right ashi berai, right oizuki
+- D. Right ashi berai, right uraken
 
 #### 10
 - A. Right maegeri, left mawashigeri
@@ -152,6 +152,15 @@ Sequence:
 - Oizuki
 ```
 
+### `Gyakuzuki no Kata`
+"Kata of Reverse Punches"
+
+Sequence:
+```
+- Gedan Berai / Zenkutsu Dachi
+- Gyakuzuki
+```
+
 ### `Pinan Shodan`
 "Peaceful Mind, Tranquility 1"
 
@@ -169,8 +178,9 @@ Sequence:
 
 ---
 ### Advanced Kata
-Advanced katas.
+Advanced kata groups.
 
+---
 ### `Ananko`
 "Peace from the South"
 
@@ -180,23 +190,35 @@ Advanced katas.
 ### `Bassai Dai`
 "To Penetrate the Fortress"
 
-### `Saifa`
-"To Smash and Tear"
-
+---
 ### `Jion`
 "Temple Sound"
 
-### `Kosokun Dai`
-"To View the Sky - Major"
-
-### `Kosokun Shiho`
-"To View the Sky - 4 Directions"
+### `Saifa`
+"To Smash and Tear"
 
 ### `Seienchin`
 "To Suppress the Retreat"
 
-### `Seipai`
+---
+### `Kosokun Sho`
+"To View the Sky - Minor"
 
+### `Kosokun Shiho`
+"To View the Sky - 4 Directions"
+
+### `Kosokun Dai`
+"To View the Sky - Major"
+
+---
 ### `Rohai`
+"Image of a Heron"
 
 ### `Seisan`
+"13"
+
+### `Juroku`
+"16"
+
+### `Seipai`
+"18"
