@@ -13,7 +13,7 @@ The following combinations are performed from left leg forward.
 #### 2
 - A. Slide in, right gyakuzuki
 - B. Slide in, right gyakuzuki chudan, left maekenzuki jodan
-- C. Slide in, left shottei uchi, right gyakuzuki
+- C. Slide in, left shotei uchi, right gyakuzuki
 - D. Slide in, left uraken jodan, right gyakuzuki
 
 #### 3
