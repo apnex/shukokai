@@ -1,6 +1,7 @@
 ## Shukokai
-![](logo.png)  
 ---
+![](logo.png)
+
 ##  Combinations
 The following combinations are performed from left leg forward.  
 
