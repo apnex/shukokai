@@ -85,7 +85,7 @@ The following movements are performed from kamae - left leg forward.
 4. Slide the rear leg back at 45 degrees and then back.
 5. Step forward at a 45 degree angle, bring the front leg around so it is now the rear leg and you are at a 45 degree angle and then step back into kamae.
 6. Step back at a 45 degree angle and then return.
-7. Step forward with rear leg to a 45 degree angle and pivot on both feet so that you are in kamae (now at a 90 degree angle from the start position) and then step back.
+7. Step forward with rear leg to a 45 degree angle and pivot on both feet so that you are in kamae (now at a 90 degree angle from start position) and then step back.
 8. Step back with the front leg to a 45 degree angle and pivot on both feet so that you are in kamae (now at a 90 degree angle back from start position) and then step back.
 
 #### Third Set of 8
@@ -222,3 +222,6 @@ Advanced kata groups.
 
 ### `Seipai`
 "18"
+
+### `Chinto`
+"Fighter to the East"

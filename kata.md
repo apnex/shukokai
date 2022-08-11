@@ -6,46 +6,46 @@
 Sequence 1:
 ```
 North |
-	Kosa-Dachi | Supported Uchi-Uke
+	Kosa-Dachi | Soete-Uchi-Uke
 South |
-	Zenkutsu-Dachi | Soto-Uke
-	Zenkutsu-Dachi | Uchi-Uke
+	Zenkutsu-Dachi | Hidari-Uchi-Uke
+	Zenkutsu-Dachi | Migi-Uchi-Uke
 North |
-	Zenkutsu-Dachi | Soto-Uke
-	Zenkutsu-Dachi | Uchi-Uke
+	Zenkutsu-Dachi | Hidari-Soto-Uke
+	Zenkutsu-Dachi | Migi-Uchi-Uke
 South |
 	Shiko-Dachi |
-		Right, Rising Leg Lift Block
+		Migi-Gedan-Sukui-Uke
 East |
 	Nekoashi-Dachi |
-		Soto-Uke
-		Uchi-Uke
+		Migi-Soto-Uke
+		Hidari-Uchi-Uke
 North |
-	Heiko-Dachi |
-		Square Hip Grab
+	Hachiji-Dachi |
+		Migi-Koshi-Kamae
 ```
 
 Sequence 2:
 ```
 North |
 	Zenkutsu-Dachi |
-		Left Hammer Fist Strike
-	Heiko-Dachi |
+		Hidari-Tettsui-Yoko-Uchi
+	Hachiji-Dachi |
 		Gyakuzuki
 	Zenkutsu-Dachi |
-		Right Uchi-Uke
-	Heiko-Dachi |
+		Migi-Uchi-Uke
+	Hachiji-Dachi |
 		Gyakuzuki
 	Zenkutsu-Dachi |
-		Left Uchi-Uke
+		Hidari-Uchi-Uke
 North |
 	+Nekoashi-Dachi | Shuto Gedan-Berai
 	+Nekoashi-Dachi | Shuto Gedan-Berai
 	+Nekoashi-Dachi | Shuto Gedan-Berai
 	-Nekoashi-Dachi |
-		Double Hand Grab
+		Ryosho-Tsukami-Uke
 		Right Open Palm Strike
-		Right Yoko-Geri
+		Migi-Gedan-Sokuto-Fumikomi
 West |
 	Heiko-Dachi |
 		Left Double-Down Fist Hip Grab
@@ -59,12 +59,33 @@ South |
 	+Nekoashi-Dachi |
 		Right Shuto-Uke
 	-Heisoku-Dachi |
-		Double Age-Uke
-	+Fudo-Dachi |
-		Double Short-Under-Punch
+		Jodan-Morote-Age-Uke
+	+Moto-Dachi |
+		Tettsui-Hasami-Uchi
 	+Shiko-Dachi |
 		Oizuki
 East |
 	Heisoku-Dachi |
-		Arm Bent 1-Arm Straight
+		Manji-Uke
+North |
+	Shiko-Dachi |
+		Migi-Gedan-Berai
+		Left Short Punch
+South |
+	Zenkutsu-Dachi |
+		Hidari-Tettsui-Yoko-Uchi
+		Hidari-Haishu-Uke
+	+Migi-Mikazuka-Geri
+	+Zenkutsu-Dachi |
+		Migi-Empi-Uchi
+		Supported Right Gedan-Berai
+		Supported Left Gedan-Berai
+		Supported Right Gedan-Berai
+		Awase-Zuki
+	-Musubi-Dachi
+	+Zenkutsu-Dachi |
+		Awase-Zuki
+	-Musubi-Dachi
+	+Zenkutsu-Dachi |
+		Awase-Zuki
 ```
