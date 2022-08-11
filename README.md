@@ -1,8 +1,11 @@
-## Shukokai
----
+# Shukokai
 ![](logo.png)
 
-##  Combinations
+##  Kihon
+An archive of basic techniques and movements.
+
+---
+###  Combinations
 The following combinations are performed from left leg forward.  
 
 #### 1
